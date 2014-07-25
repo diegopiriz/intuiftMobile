@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.intuift.IntuiftMobile" version="1.0.0">
+    <preference name="phonegap-version" value="2.9.0" />
     <name>Intuift-Mobile</name>
     <description>
         Intuift Mobile Application

@@ -17,8 +17,9 @@
  * under the License.
  */
 var app = {
+    home: "http://intuift.herokuapp.com/mobile/",
     //home: "http://10.0.2.2:9000/mobile/",
-    home: "http://localhost:9000/mobile/",
+    //home: "http://localhost:9000/mobile/",
     login: "login",
     indicators: "indicators",
     indicator: function(id) { return "indicators/"+id; },
